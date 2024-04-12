@@ -1,0 +1,3 @@
+u32 index;
+u16 dup : 2;
+u16 offset : 14;
